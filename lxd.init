@@ -3,7 +3,7 @@ config:
 networks:
 - config:
     ipv4.address: auto
-    ipv6.address: false
+    ipv6.address: none
   description: ""
 #  managed: false
   name: lxdbr0
